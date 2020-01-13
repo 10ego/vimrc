@@ -5,5 +5,5 @@ syntax on
 set nu
 set expandtab
 set softtabstop=4
-shiftwidth=4
+set shiftwidth=4
 set cursorline
