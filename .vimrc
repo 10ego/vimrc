@@ -1,10 +1,9 @@
 set bg=dark
-set tabstop=4
+set tabstop=4 shiftwidth=4 expandtab
 set autoindent
 syntax on
 set nu
-set expandtab
 set softtabstop=4
-set shiftwidth=4
 set cursorline
 set paste
+%retab
